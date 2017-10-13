@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass article
+\begin_preamble
+\usepackage{draftcopy}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -339,7 +342,7 @@ Note di copertina
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1092,6 +1095,57 @@ che l'onore lo tengo per me..."
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/0167501-alloppiato.gif
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -1278,6 +1332,41 @@ Senza il galletto la mia gallina,
 
 \begin_layout Standard
 la poverina come farà
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/galletto.png
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -1740,6 +1829,69 @@ ch'io vi dò I'assoluzion.
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/penitente.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+La penitenza - Losanga del Campanile di Giotto
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -2141,6 +2293,57 @@ E s'asfissiava
 
 \begin_layout Standard
 si boccheggiava!"
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/trescone2.jpg
+	width 7cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2963,6 +3166,73 @@ e se mi ridovessi innamorare..…
 
 \begin_layout Standard
 sto più tranquillo, chè ora so notare.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/riva_arno.jpg
+	width 11cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -3704,6 +3974,41 @@ che figliola, che figliola,
 
 \begin_layout Standard
 porca miseria, gli è meglio scappar
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/filobus.JPG
+	width 7cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5759,6 +6064,61 @@ la se lo po’ caccia’ i’ su’ Paradiso!"
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vphantom{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/masaccio.jpg
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Masaccio Cacciata dei progenitori dall'Eden - Cappella Brancacci
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -5985,6 +6345,9 @@ vphantom{1}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -6114,6 +6477,57 @@ vphantom{1}
 
 \begin_layout Standard
 Ma icche' la mi dice....
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vphantom{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/beatrice.jpg
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -7176,6 +7590,57 @@ mira sdegnato l'immane casino
 
 \begin_layout Standard
 prendete la merda che dio v'ha mandato!"
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/alluvione.jpg
+	height 7cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -9130,6 +9595,61 @@ gliè meglio limitassi a fà la pipì”
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/carlotta.jpg
+	height 7cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Carlotta Paiano, trans frequentatrice delle Cascine negli anni '80
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -10631,6 +11151,57 @@ Teresina.....
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/teresina.png
+	height 7cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -11325,6 +11896,57 @@ Tutto mi trema il cor quando ci vai
 
 \begin_layout Standard
 per lo timor se ci vedrem più mai.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/maremma_amara.jpg
+	height 7cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -11333,6 +11955,22 @@ per lo timor se ci vedrem più mai.
 
 \begin_layout Subsubsection
 Alla casa di Cesira
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noindent
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -11370,7 +12008,16 @@ disse - prendi!, poi spirò.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
 \end_inset
 
 
@@ -14526,6 +15173,57 @@ E una candela non può far due lumi
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/lucca.jpg
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -14566,45 +15264,11 @@ Le origini di questa canzone si perdono nella notte del medioevo ed e' una
 \end_layout
 
 \begin_layout Standard
-
-\shape italic
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
 width "80col%"
 height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
 
 \end_inset
 
@@ -14628,22 +15292,6 @@ io ti porto in alto mar.
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 In alto mare che noi saremo 
 \end_layout
 
@@ -14657,22 +15305,6 @@ e qualche cosa cucineremo
 
 \begin_layout Standard
 all'usanza del barcaioli
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -14700,22 +15332,6 @@ la tua mamma non ce l’hai più
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 Barcaiolo, barcaiolo, 
 \end_layout
 
@@ -14729,22 +15345,6 @@ Voglio tornare dalla mammina mia
 
 \begin_layout Standard
 a raccontaglierlo il disonor
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -14762,6 +15362,41 @@ E dentro c'era la sua mammina morta
 
 \begin_layout Standard
 che era morta dal gran dolor.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/barcarolo.png
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -15542,6 +16177,63 @@ E con tutta la riserva.
 \begin_layout Standard
 io mi sposerò la serva.
  - trallerallera, trallerallà! 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename img2/dalla_costa.jpg
+	height 7cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Cardinale Elia Dalla Costa (1872-1961).
+ Arrivato a Firenze nel 1931 e' rimasto famoso per l'impegno verso la popolazion
+e nel periodo di guerra
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -15787,7 +16479,19 @@ bigskip
 
 \begin_layout Standard
 Trullallera, piglia i' marito e sbattilo in galera!
-\begin_inset Newpage pagebreak
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
 \end_inset
 
 
@@ -16219,6 +16923,19 @@ Nota del redattore : mio padre, caldinese doc, mi ha cantato questa canzone
  che ricordava dalla sua infanzia (anche se la linea melodica mi dice risultare
  differente da quella riproposta da Marasco).
  La canzone rientra nel filone degli stornelli mugellani 
+\end_layout
+
+\begin_layout Standard
+Il testo della canzone e' riportato nel libro 
+\begin_inset Quotes eld
+\end_inset
+
+La barriera
+\begin_inset Quotes erd
+\end_inset
+
+ canti popolari toscani del mondo contadino I.Guasti e F.Manescalchi Nuovedizioni
+ E.Valsecchi - Il bisonte
 \end_layout
 
 \begin_layout Standard
@@ -18179,6 +18896,22 @@ Rosina lo guardava dicendo: Son dolori!
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Mentre stava guardando disse: Caro Brogino,
 \end_layout
 
@@ -18195,6 +18928,22 @@ Via, mettilo in custodia, le marca bene l'ore!
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 No, no caro Brogino, sarebbe un patimento, 
 \end_layout
 
@@ -18208,6 +18957,22 @@ Senti, cara Rosina, se lo sai maneggiare
 
 \begin_layout Standard
 questo, benché sia piccolo, ti può ben soddisfare.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -18228,6 +18993,22 @@ Tu sei troppo furiosa, forse lo guasteresti!
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Se tu sapessi Brogio, quanti ne ho maneggiati 
 \end_layout
 
@@ -18241,6 +19022,22 @@ Dunque caro Brogino quest’è l’inconveniente
 
 \begin_layout Standard
 che te non vuoi provarlo e ’un si conclude niente!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -18472,7 +19269,7 @@ bigskip
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -18841,6 +19638,44 @@ Cosi Luca riabbracciava
 
 \begin_layout Standard
 la su’ adorata mamma Checca Cava!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/cava2.png
+	height 10cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -20838,7 +21673,60 @@ L'amore pe'i viola gliè sincero!
 
 \begin_layout Standard
 Sputa la pappa! Arbitro.......
- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/antonio.jpg
+	height 9cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -21002,6 +21890,60 @@ Tu lanci nell'aria la sciarpa viola e gridi
 
 \begin_layout Standard
 Il trionfo della tua regina: "Alè Fiorentina" 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/Fiorentina_1981-82.jpg
+	width 8cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -24064,6 +25006,44 @@ gambe sgabette, pedi pedini, pedina so'!
 
 \begin_layout Standard
 Caterinella eri, Caterinella so'!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/caterinellajpg
+	height 9cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -24460,10 +25440,6 @@ Regina del deserto
 
 \begin_layout Standard
 io ti saluterò
-\begin_inset Newpage pagebreak
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
@@ -24875,45 +25851,11 @@ Canzone in origine nata a Livorno per coloro che partivano in nave e’ stata
 \end_layout
 
 \begin_layout Standard
-
-\shape italic
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
 width "80col%"
 height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-bigskip
-\end_layout
 
 \end_inset
 
@@ -25082,10 +26024,6 @@ e tra la-li-la-là
 
 \begin_layout Standard
 Se piace a Dio ti rivedrò.
-\begin_inset Newpage pagebreak
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -25272,6 +26210,13 @@ Copertina CD
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Canzoni
 \end_layout
@@ -25310,6 +26255,13 @@ L’è un po’ bruttina (N.Vitali)
 
 \begin_layout Enumerate
 Caffè “Paskoski” (R.Marasco)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -29308,13 +30260,6 @@ Bambinello, fai la nanna
 Bambinello, fai la nanna.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsubsection
 Cantar vorrei la nanna
 \end_layout
@@ -32550,6 +33495,76 @@ gliè i’canto che alla mattina mette i’buonumore!....
 
 \begin_layout Standard
 “Donne c’è l’ortolano!!"
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/ortolano.jpg
+	width 9cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -36142,6 +37157,30 @@ bigskip
 \end_layout
 
 \begin_layout Standard
+ndr: da altre fonti sembra che l'autore originale sia da rintracciare in
+ Giovanni Stefani nel brano "Amante felice" sopra l'aria della Ciaccona,
+ danza spagnola del XVI secolo in ritmo ternario e movimento ternario
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
@@ -38420,7 +39459,19 @@ se vieni alla fontana te lo lavo
 
 \begin_layout Standard
 consumo un pezzo di sapone intero
-\begin_inset Newpage pagebreak
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
 \end_inset
 
 
@@ -39327,7 +40378,7 @@ Produzione esecutiva di R.Marasco in collaborazione con
 \end_layout
 
 \begin_layout Standard
-Ass.
+watermarkAss.
  Culturale Musicanti del Piccolo Borgo (AR)
 \end_layout
 
@@ -41515,7 +42566,90 @@ La produzione di Marasco non si e' limitata alla produzioni di dischi ed
 \end_layout
 
 \begin_layout Section
-VHS La tradizione toscana live (2000)
+Chi cerca, trova Vita e canti di Toscana (1977)
+\end_layout
+
+\begin_layout Subsection
+Artwork
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/cerca_trova.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Introduzione
+\end_layout
+
+\begin_layout Standard
+Dalla prefazione di Riccardo Marasco: "Dando alle stampe questo libro, non
+ antologia, ma scrematura o, meglio ancora, spigolatura di tanti anni di
+ ricerche, intendo rendere alla mia terra un po' di quel molto che da lei
+ mi è venuto ed esprimere la mia profonda gratitudine al popolo di toscana
+ che così generosamente mi ha sempre aperto le porte delle proprie abitazioni
+ e dei suoi ricordi, nella speranza di averlo ancor più amico nel futuro.
+ "
+\end_layout
+
+\begin_layout Standard
+Il libro e' corredato di una musicassetta con registrazioni che non derivano
+ da quelle su vinile con la presenza di soli canti della tradizione popolare;
+ tutti i brani del successivo album 
+\begin_inset Quotes eld
+\end_inset
+
+Vecchia Toscana
+\begin_inset Quotes erd
+\end_inset
+
+ sono comunque ripresi da questo libro.
+\end_layout
+
+\begin_layout Standard
+Il titolo e' derivato dalla scritta su di una bandiera verde presente sul
+ dipinto 
+\begin_inset Quotes eld
+\end_inset
+
+La battaglia di Marciano della Chiana
+\begin_inset Quotes erd
+\end_inset
+
+ di Giorgio Vasari nel Salone dei Cinquecento di Palazzo Vecchio a Firenze
 \end_layout
 
 \begin_layout Standard
@@ -41524,6 +42658,2032 @@ placement H
 wide false
 sideways false
 status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/vasari.jpg
+	width 3cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Canzoni
+\end_layout
+
+\begin_layout Itemize
+Attenti giovinotti (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Io mi ritrovo legato (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+La pezzola (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Il sedici di agosto (P.Cini)
+\end_layout
+
+\begin_layout Itemize
+Già allo sguardo (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+E voi Caterinella (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Mamma, mamma mi sento (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+La povera Lina (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Colombo che sul poggio (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Presso una chiesa (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Se bel riso se bell'auretta (R.Rontani - Chiabrera)
+\end_layout
+
+\begin_layout Itemize
+Bella mia, questo mio core (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Al fonte, al prato (Cancini - Chiabrera)
+\end_layout
+
+\begin_layout Itemize
+Quell'augello che vola (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Partirò partirò (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+La Regina del deserto (A.Menchi)
+\end_layout
+
+\begin_layout Itemize
+Addio Firenze (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Io vorrei che a Metternicche (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Diceva un codino (Anonimo - R.Marasco)
+\end_layout
+
+\begin_layout Itemize
+Rondinella pellegrina (G.Torelli)
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Attenti giovinotti
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Per il testo fare riferimento al paragrafo 8.3.2 dell'album 
+\begin_inset Quotes eld
+\end_inset
+
+Vecchia Toscana
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Io mi ritrovo legato
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Per il testo fare riferimento al paragrafo 8.3.11 dell'album 
+\begin_inset Quotes eld
+\end_inset
+
+Vecchia Toscana
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+La pezzola
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Canzone ascoltata da nonna Bice a Castello di Lamole.
+ Risulta citata anche nel foglio “Contrasto tra un giovinotto e l’amante”
+ a cura di G.Bracali stampata nel 1911.
+ Per il testo fare riferimento al paragrafo 8.3.4 dell'album 
+\begin_inset Quotes eld
+\end_inset
+
+Vecchia Toscana
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Il sedici di Agosto
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Canzone anarchica relativa alla decapitazione di Sante Caserio, anarchico
+ italiano (1873-1894) noto per avere pugnalato a morte il Presidente della
+ Repubblica Francese Sadi Carnot per vendicare l’anarchico francese Vaillant.
+ Canto composto da Pietro Cini e rielaborato dalla voce popolare 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il sedici di agosto 
+\end_layout
+
+\begin_layout Standard
+sul far della mattina
+\end_layout
+
+\begin_layout Standard
+il boia avea disposto
+\end_layout
+
+\begin_layout Standard
+l'orrenda ghigliottina
+\end_layout
+
+\begin_layout Standard
+mentre Ceserio dormiva ancor 
+\end_layout
+
+\begin_layout Standard
+e non pensava al triste orror.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Entran nella prigione 
+\end_layout
+
+\begin_layout Standard
+direttore e prefetto
+\end_layout
+
+\begin_layout Standard
+con voce di emozione 
+\end_layout
+
+\begin_layout Standard
+svegliano il giovinetto:
+\end_layout
+
+\begin_layout Standard
+« Alzati » dicono, « Che cosa c'è? »
+\end_layout
+
+\begin_layout Standard
+« È giunta l'ora: alzati in piè! »
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Udita la notizia
+\end_layout
+
+\begin_layout Standard
+si mutò nel sembiante.
+ 
+\end_layout
+
+\begin_layout Standard
+Veduta la giustizia
+\end_layout
+
+\begin_layout Standard
+sbiancò tutto tremante.
+\end_layout
+
+\begin_layout Standard
+Li chieser prima di andare a morir
+\end_layout
+
+\begin_layout Standard
+dite se avete nulla da dir.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rispose il poveretto: 
+\end_layout
+
+\begin_layout Standard
+« allor che morto sia 
+\end_layout
+
+\begin_layout Standard
+prego questo biglietto
+\end_layout
+
+\begin_layout Standard
+datelo a mamma mia.
+ 
+\end_layout
+
+\begin_layout Standard
+Posso fidarmi che lei lo avrà,
+\end_layout
+
+\begin_layout Standard
+mi raccomando per carità.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Altro non ho da dire 
+\end_layout
+
+\begin_layout Standard
+schiudetemi le porte.
+ 
+\end_layout
+
+\begin_layout Standard
+Finito è il mio soffrire
+\end_layout
+
+\begin_layout Standard
+su datemi la morte.
+ 
+\end_layout
+
+\begin_layout Standard
+E tu mia madre dai fine al duol
+\end_layout
+
+\begin_layout Standard
+e datti pace del tuo figliuol.
+ »
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Allor con precauzione 
+\end_layout
+
+\begin_layout Standard
+dal boia fu legato,
+\end_layout
+
+\begin_layout Standard
+e in piazza di Lione 
+\end_layout
+
+\begin_layout Standard
+fu tosto trasportato
+\end_layout
+
+\begin_layout Standard
+e spinto a forza il capo entrò
+\end_layout
+
+\begin_layout Standard
+nella mannaia che lo troncò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Spettacolo di gioia
+\end_layout
+
+\begin_layout Standard
+Francia lo manifesta 
+\end_layout
+
+\begin_layout Standard
+gridando « evviva il boia 
+\end_layout
+
+\begin_layout Standard
+che gli tagliò la testa!» 
+\end_layout
+
+\begin_layout Standard
+Gente tiranna e senza cor
+\end_layout
+
+\begin_layout Standard
+che sprezzi e irridi l'altrui dolor!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Già allo sguardo
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Canto anarchico relativo al ritorno di un esiliato politico attribuito a
+ Piero Gori o a Carlo Vita e Ugo Tilla 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Già allo sguardo mi apparve la terra 
+\end_layout
+
+\begin_layout Standard
+fra gli albori di un sole nascente.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel vederla il mio cuore si serra,
+\end_layout
+
+\begin_layout Standard
+nel mio petto mi balza fremente.
+\end_layout
+
+\begin_layout Standard
+Fra le nebbie lontane, lontane, 
+\end_layout
+
+\begin_layout Standard
+già li scorgo del porto i fanali,
+\end_layout
+
+\begin_layout Standard
+non più lungi dal bel suolo toscano
+\end_layout
+
+\begin_layout Standard
+che fu patria di tanti immortali.
+\end_layout
+
+\begin_layout Standard
+Perchè mai da te fui lontano? 
+\end_layout
+
+\begin_layout Standard
+Fui scacciato! Qual colpa commisi? 
+\end_layout
+
+\begin_layout Standard
+Perchè mai di un potente la mano 
+\end_layout
+
+\begin_layout Standard
+mi strappò dai più dolci sorrisi? 
+\end_layout
+
+\begin_layout Standard
+Nel lavoro la gioia sognavo 
+\end_layout
+
+\begin_layout Standard
+di vederlo il mio popol redento 
+\end_layout
+
+\begin_layout Standard
+nel mio petto l’amore albergavo:
+\end_layout
+
+\begin_layout Standard
+c'è nell'odio un terribil tormento! 
+\end_layout
+
+\begin_layout Standard
+Potrò alfine ristringere al seno
+\end_layout
+
+\begin_layout Standard
+la mia donna, i miei figli adorati.
+\end_layout
+
+\begin_layout Standard
+Nell'abbraccio più puro sereno
+\end_layout
+
+\begin_layout Standard
+gioirò fra questi esseri amati.
+\end_layout
+
+\begin_layout Standard
+Ma per sempre la fede ed il cuore
+\end_layout
+
+\begin_layout Standard
+serberò per chi soffre e chi geme
+\end_layout
+
+\begin_layout Standard
+l'ideale di pace d'amore 
+\end_layout
+
+\begin_layout Standard
+sarà sempre la sola mia speme! 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+E voi Caterinella
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Nella forma cinquecentesca della Caterinetta, una canzonetta spinta che
+ erano espressamente vietate.
+ Già pubblicato in "Vecchia Toscana" .
+ Confronta paragrafo 8.3.7
+\end_layout
+
+\begin_layout Subsubsection
+Mamma mamma mi sento
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Canzone che parla del mar d’amore.
+ La pappa, in un periodo in cui le medicine in senso moderno non erano conosciut
+e, era il regime alimentare per guarire dal male.
+ Pubblicata con titolo differente ma con identico testo in "Vecchia Toscana"
+ a cui si rimanda al paragrafo 8.3.5
+\end_layout
+
+\begin_layout Subsubsection
+La povera Lina
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Melodia-stornello con versi di G.
+ Filinto Santoro e musica di Francesco Capponi.
+ Ne esistono varie versioni di differente lunghezza nel testo.
+ Pubblicata in "Vecchia Toscana" a cui si rimanda per il testo al paragrafo
+ 8.3.8
+\end_layout
+
+\begin_layout Subsubsection
+Colombo che sul poggio
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Ascoltata a Campagnatico (GR) , sul tema del pecoraro che se ne va e di
+ cui non si hanno più notizie .
+ Pubblicata in "Vecchia Toscana" a cui si rimanda per il testo al paragrafo
+ 8.3.10
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Presso una chiesa
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Ancora a Campagnatico (GR)
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Presso una chiesa sto qui aspettando 
+\end_layout
+
+\begin_layout Standard
+una fanciulla che deve venir.
+ 
+\end_layout
+
+\begin_layout Standard
+A testa bassa, vestita in nero, 
+\end_layout
+
+\begin_layout Standard
+mesta davanti, a me lei passò.
+ 
+\end_layout
+
+\begin_layout Standard
+Varcò la soglia del cimitero
+\end_layout
+
+\begin_layout Standard
+ad una tomba lei s'inginocchiò.
+ 
+\end_layout
+
+\begin_layout Standard
+Pianse lungh'ore tra i duri sassi
+\end_layout
+
+\begin_layout Standard
+lo colse un fiore e poi se ne partì
+\end_layout
+
+\begin_layout Standard
+riprende il velo, riallunga i passi
+\end_layout
+
+\begin_layout Standard
+e tra la folla a me lei sparì.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ma dopo un anno gentile snella
+\end_layout
+
+\begin_layout Standard
+mesta davanti a me lei ritornò
+\end_layout
+
+\begin_layout Standard
+Le dissi «Cara», le dissi «Bella»,
+\end_layout
+
+\begin_layout Standard
+le dissi «T'amo» e le chiesi amor.
+\end_layout
+
+\begin_layout Standard
+La man mi stese, mi disse: - «Ascolta, 
+\end_layout
+
+\begin_layout Standard
+tardi il destino noi ci fè incontrar.
+ 
+\end_layout
+
+\begin_layout Standard
+Sappi che al mondo si ama una volta 
+\end_layout
+
+\begin_layout Standard
+chi amavo è morto ora non so più amar!» 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Se bel rio,se bell’auretta 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Scritta da Raffaello Rontani con i versi di Chiabrera quando erano ai servigi
+ di Don Antonio de’ Medici, fratellastro di Maria, 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se bel rio, se bell'auretta
+\end_layout
+
+\begin_layout Standard
+fra l'erbetta 
+\end_layout
+
+\begin_layout Standard
+sul mattin mormorand'erra,
+\end_layout
+
+\begin_layout Standard
+se di fiori un praticello
+\end_layout
+
+\begin_layout Standard
+si fa bello 
+\end_layout
+
+\begin_layout Standard
+noi diciam: ride la terra!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quando avvien che un zefiretto 
+\end_layout
+
+\begin_layout Standard
+per diletto 
+\end_layout
+
+\begin_layout Standard
+bagni il piè nell'onde chiare
+\end_layout
+
+\begin_layout Standard
+si che l'acqua su l'arena 
+\end_layout
+
+\begin_layout Standard
+scherzi a pena noi diciam:
+\end_layout
+
+\begin_layout Standard
+che ride il mare!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se già mai tra fior vermigli,
+\end_layout
+
+\begin_layout Standard
+se tra gigli
+\end_layout
+
+\begin_layout Standard
+veste l'alba un aureo velo 
+\end_layout
+
+\begin_layout Standard
+e su rote di zaffiro
+\end_layout
+
+\begin_layout Standard
+move in giro 
+\end_layout
+
+\begin_layout Standard
+noi diciam che ride il cielo!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ben è ver quando è giocondo
+\end_layout
+
+\begin_layout Standard
+ride il mondo 
+\end_layout
+
+\begin_layout Standard
+ride il ciel quando è gioioso
+\end_layout
+
+\begin_layout Standard
+ben è ver, ma non san poi 
+\end_layout
+
+\begin_layout Standard
+come voi
+\end_layout
+
+\begin_layout Standard
+fare un riso gratioso!
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Bella mia, questo mio core 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Pubblicata in "La mia Toscana" a cui si rimanda per il testo al paragrafo
+ 12.5.1
+\end_layout
+
+\begin_layout Subsubsection
+Al fonte, al prato 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Musica di Cancini sulle parole di G.
+ Chiabrera per la corte di Ferdinando I dei Medici.
+ La canzone e' pubblicata su "Le nuove musiche e nuova maniera di scriverle"
+ (Firenze 1614) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Al fonte, al prato, 
+\end_layout
+
+\begin_layout Standard
+al bosco, all'ombra, 
+\end_layout
+
+\begin_layout Standard
+al fresco fiato
+\end_layout
+
+\begin_layout Standard
+che il caldo sgombra,
+\end_layout
+
+\begin_layout Standard
+pastor correte 
+\end_layout
+
+\begin_layout Standard
+ciascun che ha sete, 
+\end_layout
+
+\begin_layout Standard
+ciascun che è stanco 
+\end_layout
+
+\begin_layout Standard
+riposi il fianco.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fugga la noia,
+\end_layout
+
+\begin_layout Standard
+fugga il dolore,
+\end_layout
+
+\begin_layout Standard
+sol riso gioia, 
+\end_layout
+
+\begin_layout Standard
+sol caro amore, 
+\end_layout
+
+\begin_layout Standard
+con noi soggiorni,
+\end_layout
+
+\begin_layout Standard
+ne' lieti giorni
+\end_layout
+
+\begin_layout Standard
+non s’odan mai
+\end_layout
+
+\begin_layout Standard
+querele o lai.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ma dolce canto 
+\end_layout
+
+\begin_layout Standard
+di vaghi augelli
+\end_layout
+
+\begin_layout Standard
+p’el verde manto
+\end_layout
+
+\begin_layout Standard
+degli arbuscelli
+\end_layout
+
+\begin_layout Standard
+risuoni sempre 
+\end_layout
+
+\begin_layout Standard
+con nuove tempre
+\end_layout
+
+\begin_layout Standard
+mentre che all’onde
+\end_layout
+
+\begin_layout Standard
+Eco risponde.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+E mentre alletta
+\end_layout
+
+\begin_layout Standard
+quanto più puote
+\end_layout
+
+\begin_layout Standard
+la cicaletta
+\end_layout
+
+\begin_layout Standard
+con rozze note
+\end_layout
+
+\begin_layout Standard
+il sonno dolce
+\end_layout
+
+\begin_layout Standard
+che'i caldo molce 
+\end_layout
+
+\begin_layout Standard
+noi pian piano
+\end_layout
+
+\begin_layout Standard
+con lei cantiamo.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Quell’augello che vola 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Pubblicata con titolo leggermente differente in "Vecchia Toscana " a cui
+ si rimanda per il testo al paragrafo 8.3.6
+\end_layout
+
+\begin_layout Subsubsection
+Partirò partirò
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Canto dei coscritti di Anton Francesco Menchi (1762-1828) sulla base della
+ frase melodica iniziale di Maremma Amara (inizio 800) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Partire, partirò, partir bisogna, 
+\end_layout
+
+\begin_layout Standard
+dove comanderà 'l nostro sovrano.
+ 
+\end_layout
+
+\begin_layout Standard
+Chi prenderà la strada di Bologna, 
+\end_layout
+
+\begin_layout Standard
+chi anderà a Parigi e chi a Milano.
+ 
+\end_layout
+
+\begin_layout Standard
+Ah, che partenza amara, 
+\end_layout
+
+\begin_layout Standard
+Gigina cara, mi convien fare, 
+\end_layout
+
+\begin_layout Standard
+vado alla guerra 
+\end_layout
+
+\begin_layout Standard
+e spero di tornare.
+ 
+\end_layout
+
+\begin_layout Standard
+Se Il nostro Imperator ce lo comanda 
+\end_layout
+
+\begin_layout Standard
+ci batteremo e finirem la vita, 
+\end_layout
+
+\begin_layout Standard
+al rullo dei tamburi, a suon di banda 
+\end_layout
+
+\begin_layout Standard
+farem del mondo l'ultima partita.
+\end_layout
+
+\begin_layout Standard
+Ah, che partenza amara, 
+\end_layout
+
+\begin_layout Standard
+Gigia mia cara, Gigia mia bella 
+\end_layout
+
+\begin_layout Standard
+di me non avrai più forse novella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+La regina del deserto
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Pubblicata in "Vecchia Toscana " a cui si rimanda per il testo al paragrafo
+ 8.3.9
+\end_layout
+
+\begin_layout Subsubsection
+Addio Firenze
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Canzone in origine nata a Livorno per coloro che partivano in nave e’ stata
+ riadattata a Firenze per la ferrovia
+\shape default
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addio Firenze, 
+\end_layout
+
+\begin_layout Standard
+Firenze Addio
+\end_layout
+
+\begin_layout Standard
+se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+E tra la-li-la-li-la-li-la e tra la-li-la-là 
+\end_layout
+
+\begin_layout Standard
+Se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ad imbarcarmi 
+\end_layout
+
+\begin_layout Standard
+vado a Livorno 
+\end_layout
+
+\begin_layout Standard
+ma il mio ritorno 
+\end_layout
+
+\begin_layout Standard
+presto sarà
+\end_layout
+
+\begin_layout Standard
+E tra la-li-la-li-la-li-la e tra la-li-la-là 
+\end_layout
+
+\begin_layout Standard
+Se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+D'aver fortuna 
+\end_layout
+
+\begin_layout Standard
+spero sul mare 
+\end_layout
+
+\begin_layout Standard
+di ritornare 
+\end_layout
+
+\begin_layout Standard
+pensiero avrò.
+\end_layout
+
+\begin_layout Standard
+E tra la-li-la-li-la-li-la e tra la-li-la-là 
+\end_layout
+
+\begin_layout Standard
+Se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addio Cascine 
+\end_layout
+
+\begin_layout Standard
+Addio Lung'Arno
+\end_layout
+
+\begin_layout Standard
+non spero indarno 
+\end_layout
+
+\begin_layout Standard
+vi rivedrò.
+\end_layout
+
+\begin_layout Standard
+E tra la-li-la-li-la-li-la e tra la-li-la-là
+\end_layout
+
+\begin_layout Standard
+Se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mia bella 
+\end_layout
+
+\begin_layout Standard
+Addio parte il vapore
+\end_layout
+
+\begin_layout Standard
+a tal dolore 
+\end_layout
+
+\begin_layout Standard
+regger non sò.
+\end_layout
+
+\begin_layout Standard
+E tra la-li-la-li-la-li-la e tra la-li-la-là 
+\end_layout
+
+\begin_layout Standard
+Se piace a Dio ti rivedrò.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Io vorrei che a Metternicche
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Pubblicata in "Vecchia Toscana " a cui si rimanda per il testo al paragrafo
+ 8.3.3
+\end_layout
+
+\begin_layout Subsubsection
+Diceva un codino
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+Pubblicata in "Vecchia Toscana " a cui si rimanda per il testo al paragrafo
+ 8.3.1
+\end_layout
+
+\begin_layout Subsubsection
+Rondinella pellegrina
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Di Giuseppe Torelli composta del 1859 ha come argomento i moti insurrezionali
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "80col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rondinella pellegrina
+\end_layout
+
+\begin_layout Standard
+che ti posi sul verone
+\end_layout
+
+\begin_layout Standard
+ricantando ogni mattina
+\end_layout
+
+\begin_layout Standard
+quella flebile canzone
+\end_layout
+
+\begin_layout Standard
+Che vuoi dirmi, in tua favella
+\end_layout
+
+\begin_layout Standard
+pellegrina rondinella?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solitaria nell'oblio 
+\end_layout
+
+\begin_layout Standard
+dal tuo sposo abbandonata
+\end_layout
+
+\begin_layout Standard
+piangi forse al pianto mio
+\end_layout
+
+\begin_layout Standard
+vedovella sconsolata? 
+\end_layout
+
+\begin_layout Standard
+Piangi, piangi, in tua favella
+\end_layout
+
+\begin_layout Standard
+pellegrina, rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Pur di me manco infelice 
+\end_layout
+
+\begin_layout Standard
+tu alle penne almen t'affidi
+\end_layout
+
+\begin_layout Standard
+, scorri il !ago e la pendice, 
+\end_layout
+
+\begin_layout Standard
+empi l’aria dei tuoi gridi
+\end_layout
+
+\begin_layout Standard
+tutto il giorno in tua favella
+\end_layout
+
+\begin_layout Standard
+lui chiamando, o rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Oh se anch'io! ma lo contende 
+\end_layout
+
+\begin_layout Standard
+questa bassa angusta volta
+\end_layout
+
+\begin_layout Standard
+dove ‘l sole non risplende
+\end_layout
+
+\begin_layout Standard
+dove l’aria ancor m'è tolta,
+\end_layout
+
+\begin_layout Standard
+donde a te la mia favella
+\end_layout
+
+\begin_layout Standard
+giunge appena, o rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il settembre innanzi viene
+\end_layout
+
+\begin_layout Standard
+e a lasciarmi ti prepari
+\end_layout
+
+\begin_layout Standard
+tu vedrai lontane arene,
+\end_layout
+
+\begin_layout Standard
+nuovi monti, nuovi mari,
+\end_layout
+
+\begin_layout Standard
+salutando in tua favella, 
+\end_layout
+
+\begin_layout Standard
+pellegrina rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ed io tutte le mattine 
+\end_layout
+
+\begin_layout Standard
+riaprendo gli occhi al pianto, 
+\end_layout
+
+\begin_layout Standard
+fra le nevi e fra le brine
+\end_layout
+
+\begin_layout Standard
+crederò d’udir quel canto,
+\end_layout
+
+\begin_layout Standard
+onde par che in tua favella 
+\end_layout
+
+\begin_layout Standard
+mi compianga, o rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Una croce a primavera
+\end_layout
+
+\begin_layout Standard
+troverai su questo suolo
+\end_layout
+
+\begin_layout Standard
+rondinella in su la sera
+\end_layout
+
+\begin_layout Standard
+sovra lei raccogli il volo
+\end_layout
+
+\begin_layout Standard
+dirami « pace » in mia favella
+\end_layout
+
+\begin_layout Standard
+pellegrina rondinella.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename img2/rondinella_pellegrina.png
+	height 9cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+VHS La tradizione toscana live (2000)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -41664,31 +44824,4521 @@ La nuova Teresina
 \end_layout
 
 \begin_layout Section
-Chi cerca, trova
-\end_layout
-
-\begin_layout Section
-Ascoltate solo dal vivo
-\end_layout
-
-\begin_layout Section
 L'angolo del collezionista
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/porcellino45g.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Copertina del raro 45 giri L'Alluvione
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noindent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Agli inizi della carriera Marasco ha registrato il primo album per le Produzioni
+ Discografiche Tank/DET (Discografica Editrice Tirrenica) di proprieta'
+ della Ciampi Editrice, la stessa che pubblicava il settimanale TV Sorrisi
+ e Canzoni con cui condivideva la sede in via Virgilio 8 a Roma.
+ Il secondo album e' stato registrato sotto etichetta Amico, di proprieta'
+ di Don Backy, Detto Mariano e Mario Moletti, fondata in seguito ai disaccordi
+ con Adriano Celentano e imparentata per quanto riguarda la distribuziona
+ alla gia' citata DET.
+ Da citare che la Tank aveva realizzato "La Toscana di Caterina" di Caterina
+ Bueno e che la Amico aveva prodotto l'album di Caterina Bueno "In giro
+ per la Toscana" nonche' il secondo album di Piero Ciampi.
+ Successivamente Marasco si avvale di una produzione sostanzialmente fiorentina
+ con l'editore Aldo Bruzzichelli proprietario sia dell'etichetta Ayna Records
+ che della Playphone e degli studi di registrazione Ayna ubicati in pieno
+ centro storico fiorentino in Chiasso Baroncelli 11r a Firenze.
+\end_layout
+
+\begin_layout Standard
+A partire dall'album "L'ammucchiata" inizia ad autoprodurre sotto l'etichetta
+ Birba tutte le sue successive produzioni
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dalla consultazione dell'archivio SIAE sulle registrazioni al nome Marasco
+ (cod.
+ IPI 00041154912) risultano 83 registrazioni ed emergono alcune chicche.
+ In primo luogo sono presenti canzoni che non risultano essere mai state
+ registrate su disco ne' eseguite live.
+ Di seguito l'elenco 
+\end_layout
+
+\begin_layout Itemize
+Amore non fuggire tra gli u...
+ 
+\end_layout
+
+\begin_layout Itemize
+Ballata della fonte 
+\end_layout
+
+\begin_layout Itemize
+Catalitica 
+\end_layout
+
+\begin_layout Itemize
+Carogna 
+\end_layout
+
+\begin_layout Itemize
+Come sottili canne 
+\end_layout
+
+\begin_layout Itemize
+Cosi' e' la vita 
+\end_layout
+
+\begin_layout Itemize
+Donna di sempre 
+\end_layout
+
+\begin_layout Itemize
+Fettunta 
+\end_layout
+
+\begin_layout Itemize
+Giulia 
+\end_layout
+
+\begin_layout Itemize
+Maratea 
+\end_layout
+
+\begin_layout Itemize
+Mia dolce ragazza 
+\end_layout
+
+\begin_layout Itemize
+No Fiffi 
+\end_layout
+
+\begin_layout Itemize
+Non vedi 
+\end_layout
+
+\begin_layout Itemize
+Nuovo Mondo 
+\end_layout
+
+\begin_layout Itemize
+Prima o poi 
+\end_layout
+
+\begin_layout Itemize
+Selvaggia 
+\end_layout
+
+\begin_layout Itemize
+Tango della tangente 
+\end_layout
+
+\begin_layout Standard
+Di queste canzoni l'unica su cui si hanno vaghe informazioni e' "Donna di
+ sempre", composta su un testo di una poesia di Francesco Nicolo' (amico
+ di Marasco) per sua moglie il cui testo e'
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Vorrei correre scalzo sopra un prato/ Vorrei dormire all’ombra di un castano
+ / Vorrei cavalcare spensierato / le nuvole del cielo più lontano.
+ …..Ma soprattutto sopra ogni desìo / vorrei sapere che mi ami ancora / vorrei
+ essere certo amore mio / che sei donna di sempre non di un’ora.
+ / Vorrei essere ricco, amato, bello, / vorrei comporre musica divina, /
+ vorrei bagnarmi all’acqua di un ruscello / vorrei sdraiarmi sulla rena
+ fina.
+ / ……Ma soprattutto, sopra a ogni desìo ……” 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La canzone "Facciam la scapponata" risulta essere anche come "Scapponata"
+ ma pur essendo lo stesso brano una volta Marasco risulta essere autore
+ di testo e musica mentre in un altro caso e' solo autore della musica.
+ Vi sono altre cose curiose: per esempio "La biritullera", brano tradizionale
+ sia nel testo che nella musica, risulta avere come autore della musica
+ come Marasco (lo stesso brano sulla SIAE risulta in altri casi avere autore
+ anonimo con differenti arrangiatori)...lo stesso discorso puo' essere ripetuto
+ per altri brani della tradizione toscana che risultano come autore della
+ musica Marasco.
+\end_layout
+
+\begin_layout Standard
+Per terminare si evidenzia che le registrazioni alla SIAE si concludono
+ con il disco "Ma Firenze ...
+ la cognoschi ???" perche' in seguito Marasco non ha piu' registrato su
+ vinile degli inediti.
+ Si riporta l'elenco completo del database SIAE per Riccardo Marasco
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Alcuni titoli risultano troncati nella loro lunghezza perche' cosi' vengono
+ riportati sul database SIAE
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ALLA CASA DI CESIRA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ALLUVIONE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+AMMUCCHIATA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+AMORE E COME L ELLERA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+AMORE NON FUGGIRE FRA GLI U (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+AVEVO NEGLI OCCHI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+BALLATA DELLA FONTE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+BATTISTA IL PESSIMISTA (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+BELLA RAGAZZA CHE VUOI FAR L (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+BIRITULLERA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+BONANOTTE SCHIFI (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CACCIATOR CHE VA ALLA CACCIA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CAFFE PASKOSKI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CAPANNUCCIA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CARDINAL RECATOSI (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CAROGNA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CATALITICA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CHI CERCA TROVA (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+COCCA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+COCOMERO (Musica con Romeni per testo e musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+COME SOTTILI CANNE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+CONFESSIONE (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+COSI E LA VITA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+DECENNALE DELL ALLUVIONE (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+DONNA DI SEMPRE (Musica con testo di Alberti Nicolo) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+E LA DONNA PER ESSERE BELLA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+E LO MIO AMORE E ANDATO A SO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+E TI SEGUII COSI SENZA PENSA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ECCOMI BELLA T HO PORTO UNA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FACCIAM LA NINNA NANNA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FACCIAM LA SCAPPONATA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FEDORA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FETTUNTA (Musica con Romeni Silvano) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FINESTRELLA AMABILE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FIRENZE BOTTEGAIA (Testo e Musica)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+FUNGO (Testo con Nelli Silvano e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+GALLETTO SMARRITO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+GIOVANNIN DELLA VIGNARELLA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+GIULIA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+HO SMARRITO IL GALLETTO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+IO ME NE VOLLI ANDAR PER IL (Musica)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+LALLERA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MA CHE BELLA FACCINA CHE HAI (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MALEDETTI TOSCANI (Testo con Faller Lidia e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MAMMA FAMMI LA PAPPA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MARATEA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MARCIA VIOLA (Testo con Ruffilli Massimo e Musica con Di Benedetto Claudio)
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MAREMMA AMARA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MIA DOLCE RAGAZZA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+MORETTINA L E IN MEZZO AL MA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+NINA NINA SON BARCAIOLO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+NO FIFFI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+NON VEDI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+NUOVA TERESINA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+NUOVO MONDO (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+O RONDINELLA CHE VOLI PER L (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+PALLE IN COSTUME (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+PENITENTE (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+PIGLIA LA PALLA (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+PRIMA O POI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+QUANDO RICCARDO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+RIBOLLITA (Testi con Romeni Silvano e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ROSA E IL PIU BEL FIORE (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ROSINA DI SANTINI (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+SCAPPONATA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+SELVAGGIA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+SIGARAIA (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+STA SU RICCIOLO BIONDO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+SU I FILOBUS DI FIESOLE (Musica con testo di Vitali Fernando)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+TABACCAIA (Musica)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+TANGO DELLA TANGENTE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+TERESINA (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+UCCELLINO CHE VIEN DAL MARE (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+ULTRA TANGO (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VI VOGLIO RACCONTARE (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VIA PANICALE (Testo e Musica)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VINO ALLOPPIATO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VINO CON L OPPIO (Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VIOLA D AMORE (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VIOLACCI (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VIOLANANNA (Testo con Ruffilli e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+VITA MORTE E MIRACOLI DI LUC (Testo e Musica) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+WANDA LA (Testo e Musica) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
 Curiosita'
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/locandina.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+primi passi sul palcoscenico di Riccardo Marasco sono avvenuti sotto lo
+ pseudonimo di "Mario" nel 1965 in via degli Alfani 84 presso il CABARET
+ 65, luogo in cui si esibiva Caterina Bueno, altro esponente del folk toscano.
+ Ancora studente e volendosi nascondere dalla famiglia, il giovane Marasco
+ si era nascosto sotto il nome di Mario facendo il pendolare tra Bologna
+ dove studiava ingegneria elettronica e Firenze dove nottetempo si esibiva
+ 
+\end_layout
+
+\begin_layout Itemize
+Nel 1974 ha ricevuto il premio "Perseo d'oro", nel 1994 riceve il premio
+ "Fiorino d'oro" e nel 2003 il premio "Valentino Giannotti" del Lions Club
+ Firenze.
+ Nel 2012 e' stato conferita a Marasco nel salone dei Cinquecento la medaglia
+ Beato Angelico In occasione del festival "Suoni e colori in Toscana" a
+ Marasco e' stato conferito il Premio del Presidente della Repubblica 
+\end_layout
+
+\begin_layout Itemize
+Il titolo del primo LP "Firenze sboccata" fu oggetto di critiche da parte
+ dell'allora sindaco di Firenze Piero Bargellini che non accettava simili
+ aggettivi per la sua citta'.
+ 
+\end_layout
+
+\begin_layout Itemize
+Nonostante Marasco sia un simbolo di Firenze nel mondo e che sia nato a
+ Firenze, il cognome tradisce origini familiari non toscane.
+ Lo zio da parte paterna infatti e' nato in Calabria, piu' precisamente
+ a Nicastro presso Lamezia Terme 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/logobirba.gif
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Birba e' l'acronimo di Biblioteca Rinascimentale e Barocca
+\end_layout
+
+\begin_layout Itemize
+L'etichetta Birba non ha prodotto solo musica folk toscana ma ha presentato
+ nel 1983 un disco di musica brasiliana di Paulinho Ramos, Dan Gigon, Heinz
+ Lieb con titolo Direção Brasil codice MLP16305.
+ Il disco e' stato registrato a Firenze 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/paulinho.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Durante una tournee' in Australia agli inizi degli anni 70 ha avuto modo
+ di conoscere Jerry Lewis 
+\end_layout
+
+\begin_layout Itemize
+Gli zii da parte paterna di Marasco, uno dei quali (Antonio Marasco) sarebbe
+ diventato pittore futurista, hanno frequentato il Ginnasio "Dante" negli
+ stessi anni, ma non nella stessa classe, di Odoardo Spadaro 
+\end_layout
+
+\begin_layout Itemize
+Nonostante Marasco abbia iniziato la propria carriera nel 1963 ed Odoardo
+ Spadaro sia morto nel 1965 i due non si sono mai conosciuti di persona
+\end_layout
+
+\begin_layout Itemize
+Autografo di Riccardo Marasco 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/autografo.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Marasco ricorda di aver ricercato a lungo informazioni su Italo Meschi ed
+ avere comprato dai parenti la chitarra ad ala d'aquila del liutaio Mozzani.
+ Dopo essere tornato a casa e di averla appoggiata al muro per riposarsi
+ del viaggio a Lucca e' entrata sua nonna, quasi centenaria, che lo ha apostrofa
+to :"O icche ci fa la chitarra del Meschi?".
+ Marasco non era a conoscenza che i suoi parenti conoscevano da tempo la
+ famiglia Meschi
+\end_layout
+
+\begin_layout Itemize
+La chitarra lyra ad ala d'aquila, simbolo di Marasco, e' un modello prodotto
+ dal liutaro Mozzani.
+ Risulta che esistano al mondo solo 4 esemplari di questo modello e quello
+ posseduto da Marasco e' il primo prodotto.
+ La chitarra,datata al primo novencento, possiede 9 corde di cui in posizione
+ tradizionale e tre all'esterno della tastiera di intonazione piu' bassa.
+ Le tre corde piu' basse (detti bassi volanti) non sono destinate ad essere
+ suonate ma vibrano per risonanza rendendo piu' pieno e corposo il suono;
+ solitamente sono accordate Re, Do, Sib.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/meschi.jpeg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Oltre alla chitarra Ala d'Aquila Marasco ha usato fino dagli anni '70 una
+ chitarra lyra del 1870 dono di Vittorio Gassman (Marasco teneva a sottolineare
+ che gli e' stata regalata rovinata e non suonabile).
+ Questa chitarra e' stata maggiormente impiegata sul palcoscenico a partire
+ dagli anni 90 a discapito della Ala d'aquila 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/gassman.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+La famiglia Marasco era proprietaria della Pensione Quisisana, sita in San
+ Niccolo', dove e' stato girato il film "Finestra con vista" di Edward Morgan
+ Forster 
+\end_layout
+
+\begin_layout Itemize
+Marasco era anche un appassionato collezionista di strumenti d'epoca.
+ In questa foto si puo' osservare sullo sfondo una chitarra-lyra Mozzani
+ databile secondo decennio del 1900 ad un solo braccio che non risulta essere
+ mai stata utilizzata in esibizione dal vivo 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/mozzani2.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+La foto di copertina del secondo album che ritrae la statua del Porcellino
+ e' accreditata a Peter Friedrich Gorsen mentre la foto di copertina dell'Ammucc
+hiata,che ritrae un dettaglio di una statua bronzea del Gianbologna della
+ Fontana del Biancone (per i non fiorentini Fontana del Nettuno in Piazza
+ della Signoria) e' accreditato allo stesso Marasco.
+ La foto di copertina di "Un po' di Toscana vera" e' stata ripresa in piazza
+ SS.Annunziata.
+ Le foto presenti in "Canti popolari toscani", Vecchia Toscana" e in "La
+ mia Toscana" sono di Lelio Nutini, nonno di Marasco, famoso fotografo della
+ prima meta' del novecento.
+ 
+\end_layout
+
+\begin_layout Itemize
+Sono rintracciabili versioni curiose de La Teresina per esempio quella del
+ duo maremmano (Eugenio Bargagli e Duilio Marcucci).
+ La figlia di Eugenio Bargagli, Mirella, ha seguito le orme del padre 
+\end_layout
+
+\begin_layout Itemize
+Di Luciano Ciaranfi e' invece questa versione, a mo' di filastrocca, della
+ storia dei fratelli Cava
+\end_layout
+
+\begin_layout Itemize
+Il 22 dìcembre 2011 al Teatro dell'Opera di Firenze Stefano Bollani ha eseguita
+ una sua interpretazione de "La lallera".
+ Non esiste una registrazione di questa interpretazione ma e' stata registrata
+ comunque una esecuzione di Bollani con Marasco durante il programma radiofonico
+ di Rai 3 Dr.
+ Djembe 
+\end_layout
+
+\begin_layout Itemize
+E' da ricordare una apparizione cinematografica nel film "Caino e Caino"
+ del 1993 in cui interpreta il ruolo di un imprenditore industriale pratese
+ (si tratta di poco piu' di un cameo).
+ Leonardo Pieraccioni aveva contattato Marasco per il ruolo di suo padre
+ nel film "Il ciclone" ma citando le parole di Pieraccioni "Andai a trovarlo
+ a casa sua per offrirgli il ruolo dimmi’ babbo.
+ Mentre però gli raccontavo la storia me lo guardai bene e lo vidi solo
+ in quel momento per quello che era: un uomo che non sarebbe mai potuto
+ sembrare un contadino dallo sguardo ingenuo e incantato.
+ Marasco aveva lo sguardo sicuro di tutti quei fiorentini che la sanno prima
+ loro e poi te" 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/caino.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Marasco e' stato protagonista di un fumetto di Cavezzali 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/fumetto.gif
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Collaborazioni
+\end_layout
+
+\begin_layout Standard
+In questa sezione vengono riassunte alcune delle collaborazioni musicali
+ di Riccardo Marasco
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/collaborazioni.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+La macchina usata/Il giornalaio (S.Tofano per i testi/E.Macchi per la musica)
+ (1975) brani per la signa della serie TV "Qui comincia l'avventura del
+ Signor Bonaventura".
+ 45 giri Ayna AY 21 DNP estremamente raro in cui Marasco limita il suo contribut
+o alla sola esecuzione della parte canora.
+ La parte musicale era curata da Egisto Macchi, musicista di origine grossetane
+ con una produzione indirizzata principalmente alla musica per film francesi
+ e belgi e per la televisione; anche lui incideva per Ayna.
+ Si evidenzia che al momento dell'uscita del disco Sergio Tofano era scomparso
+ da due anni alla fine del 1973 
+\end_layout
+
+\begin_layout Itemize
+Marasco ha cantato una sezione dell'Inno del Calcio Storico Fiorentino composto
+ da Giancarlo Bigazzi e cantato insieme ad Aleandro Baldi, Paolo Vallesi
+ e Marco Falagiani
+\end_layout
+
+\begin_layout Itemize
+Brano "Epilogue" del disco "My Land is your land" di Ernesto de Pascale.
+ Il brano e' gia' stato pubblicato sull'album "La mia Toscana"
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/landis.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Stornello contenuto nell'album "La Luna" del gruppo Setamoneta composto
+ da alcuni membri dei Musicanti del Piccolo Borgo (Tartaglia, Trotta).
+ Questo brano e' interessante perche' non risulta essere stato eseguito
+ dal vivo ne' registrato in altra occasione.
+ Risulta difficile trovare l'origine del testo (In "Millecinquecento stornelli
+ e rispetti amorosi" c'e' qualche similitudine con altri brani).
+ Di seguito il testo 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noindent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Fiore di pepe 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+di pepe ve ne do quanto pesate 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+dello strullino quanto ne volete 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Fiorin fiorello 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+e chi battezzo' te fece un gran fallo 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+ti mise poco sale nel cervello 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Fior tricolore 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+mali e difetti non li vede il cuore
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+a tutto si ripara con l'amore
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/setamoneta.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+La canzone "Donne c'e' l'ortolano", nella medesima versione registrata per
+ l'album "Bacione a Firenze", e' stata inclusa nella raccolta folk "Tribu'
+ Italiche - Toscana"
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/tribu.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Live Teatro TV Radio
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/mali-detti.png
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+E' praticamente impossibile stilare un elenco delle apparizioni di Riccardo
+ Marasco, viene quindi riportata una sintesi essenziale e sicuramente incompleta
+\end_layout
+
+\begin_layout Itemize
+Il grillo canterino Trasmissione RAI (1967).
+ I nastri delle registrazioni originali di questa trasmissione sono stati
+ persi nell'alluvione del 1969 
+\end_layout
+
+\begin_layout Itemize
+Canti sulla Santa Nativita' dal 1200 al 1800 Radio vaticana (1967) 
+\end_layout
+
+\begin_layout Itemize
+Concerto di chitarre spettacolo con Roberto Murolo (1967) 
+\end_layout
+
+\begin_layout Itemize
+Canti popolari e dell'Italia meridionale Teatro Rondo' di Bacco (1968) 
+\end_layout
+
+\begin_layout Itemize
+Musica proibita: storia della serenata.
+ Teatro del Rondò di Bacco (1969) Recital Firenze Sboccata da cui ha origine
+ il primo LP live dal Teatro degli Artigianelli (1969) 
+\end_layout
+
+\begin_layout Itemize
+Stagione teatrale 69-70 nella compagnia di Teatro Cabaret di Oreste Lionello
+ (1969)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/lionello.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+La Bussola (1973)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/modugno.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Incontro con...
+ trasmissione radiofonica di Dina Luce del 10 marzo (1975)
+\end_layout
+
+\begin_layout Itemize
+Bussola Domani con Domenico Modugno e Pino Caruso.(1977) 
+\end_layout
+
+\begin_layout Itemize
+Bussola Domani con Pippo Franco e Tina Turner (1978) 
+\end_layout
+
+\begin_layout Itemize
+Canti Rinascimentali e Barocchi Palazzo Davanzati (1978) 
+\end_layout
+
+\begin_layout Itemize
+Mali detti toscani Teatro Niccolini Firenze (1979)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/mali-detti.png
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Giorni Bui Teatro dell'Oriolo Firenze (1983) 
+\end_layout
+
+\begin_layout Itemize
+Mito d'Orfeo canzoni barocche inedite Festival della musica barocca Viterbo
+ (1985) 
+\end_layout
+
+\begin_layout Itemize
+Canti erotici e carnacialeschi Villa Chigi Albani Soriano del Cimino Viterbo
+ (1986) 
+\end_layout
+
+\begin_layout Itemize
+Apri la radio e ...buci rubrica radiofonica con presentazione di 150 canzoni
+ tradizionali toscane(1986) 
+\end_layout
+
+\begin_layout Itemize
+Arie di corte e di cortile canti medievali e rinascimentali Teatro La Scaletta
+ Roma (1986) 
+\end_layout
+
+\begin_layout Itemize
+Arcobaleno trasmissione RAI dove sono eseguite canzoni della Toscana Meridionale
+(1987) 
+\end_layout
+
+\begin_layout Itemize
+Canti del risorgimento Auditorium Alitalia Roma (1988) 
+\end_layout
+
+\begin_layout Itemize
+Sottosopra Recital al teatro Variety Firenze (1990) 
+\end_layout
+
+\begin_layout Itemize
+70 mi da tanto fo 90 Recital (1990)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/libretto.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Amor che a nullo amato amar perdona recital di liriche rinascimentali e
+ barocche al fianco di Franco Graziosi Piccolo Teatro di Milano (1990)
+\end_layout
+
+\begin_layout Itemize
+Acquacotta e Cafe Chantant Teatro Imperiale Montecatini Terme (1990) 
+\end_layout
+
+\begin_layout Itemize
+Ardo d'amore e conviemmi cantare selezione del repertorio di Lorenzo il
+ Magnifico (1992)
+\end_layout
+
+\begin_layout Itemize
+Laudi dal XIII al XIX secolo basilica di S.Lorenzo Firenze (1994)
+\end_layout
+
+\begin_layout Itemize
+Tour in USA per l'Italian National Day di Filadelphia (1994) 
+\end_layout
+
+\begin_layout Itemize
+Le belle melodie italiane Arie di corte e di cortile, di strada e da salotto
+ Teatro del consolato italiano Bruxelles (1994)
+\end_layout
+
+\begin_layout Itemize
+Esibizione in Giappone per il festival internazionale Hello Gifu-Hello World
+ (1995) 
+\end_layout
+
+\begin_layout Itemize
+Canti patriottici e rinascimentali dell'Indipendenza italiana (1996) 
+\end_layout
+
+\begin_layout Itemize
+Dal cupolone ho visto il Vesuvio recital di liriche rinascimentali e barocche
+ Teatro di Rifredi Firenze (1996)
+\end_layout
+
+\begin_layout Itemize
+Sette secoli di canzoni all'ombra del Cupolone (1997) 
+\end_layout
+
+\begin_layout Itemize
+Le laudi della speranza San MIniato al Monte (1997)
+\end_layout
+
+\begin_layout Itemize
+Tour in USA per Amici d'Italia Foundation (1998)
+\end_layout
+
+\begin_layout Itemize
+Canti della passione Santa Maria Novella Firenze 7 aprile (1998) 
+\end_layout
+
+\begin_layout Itemize
+Altissima Luce Basilica di S.Croce Firenze (1998) 
+\end_layout
+
+\begin_layout Itemize
+Arezzo Estate (1998)
+\end_layout
+
+\begin_layout Itemize
+Pace non piu' guerra Palavobis Milano (1998) 
+\end_layout
+
+\begin_layout Itemize
+Metti un giullare in piazza Cortona (1999)
+\end_layout
+
+\begin_layout Itemize
+Marasco 2000 Live registrato il 26 giugno 2000 in Piazza S.Croce a Firenze
+ (2000) 
+\end_layout
+
+\begin_layout Itemize
+Esibizione in Giappone per il gemellaggio Firenze-Gifu (2004) 
+\end_layout
+
+\begin_layout Itemize
+Serenata all'Arno Esibizione su una barca dei renaioli per la manifestazione
+ del Genio Fiorentino (2006)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/genio.png
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Lettura dantesca per la manifestazione del Genio Fiorentino (2007) 
+\end_layout
+
+\begin_layout Itemize
+Metti un giullare in piazza Esibizione in Piazza della Signoria, Loggia
+ dei Lanzi per la manifestazione del Genio Fiorentino (2007)
+\end_layout
+
+\begin_layout Itemize
+Un bacione che vola da 70 anni Esibizione in varie sedi per la manifestazione
+ del Genio Fiorentino (2008)
+\end_layout
+
+\begin_layout Itemize
+All'improvviso Dante: 100 canti per Firenze lettura dantesca (2009)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/dante.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Concerto di Capodanno Piazza SS Annunziata Firenze (2010) 
+\end_layout
+
+\begin_layout Itemize
+Concerto su Marsilio FicinoMorgan Library and Museum di New York (2010)
+\end_layout
+
+\begin_layout Itemize
+Affacciati Maria Laudi mariane Chiesa di S.Frediano in Cestello Firenze (2011)
+ 
+\end_layout
+
+\begin_layout Itemize
+Fiorentini....all'inferno Riccardo Marasco legge Dante (2012) 
+\end_layout
+
+\begin_layout Itemize
+Il dott.
+ Djembe' partecipazione alla trasmissione Radio Rai 3 con Davide Riondino
+ e Stefano Bollani (2012)
+\end_layout
+
+\begin_layout Itemize
+E quindi uscimmo a riveder le stelle lettura del XXXIV canto dell'Inferno
+ della Divina Commedia (2013)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Apparizioni televisive (date non definite)
+\end_layout
+
+\begin_layout Itemize
+Qualcosa da dire Domenica ore 12 (Paolo Cavallina) 
+\end_layout
+
+\begin_layout Itemize
+Auditorium (Giorgio Albertazzi) 
+\end_layout
+
+\begin_layout Itemize
+Canto popolare 
+\end_layout
+
+\begin_layout Itemize
+Adesso musica 
+\end_layout
+
+\begin_layout Itemize
+Speciale natale 1975 
+\end_layout
+
+\begin_layout Itemize
+Domenica in casa 
+\end_layout
+
+\begin_layout Itemize
+Domenica insieme (Enza Sampo') 
+\end_layout
+
+\begin_layout Itemize
+Incontro con Riccardo Marasco 
+\end_layout
+
+\begin_layout Itemize
+Speciale Bixio 
+\end_layout
+
+\begin_layout Itemize
+Buon pomeriggio (Nicoletta Orsomanno) 
+\end_layout
+
+\begin_layout Itemize
+Trenta minuti giovani Bella Italia (Emilio Ravel)
+\end_layout
+
+\begin_layout Itemize
+Omaggio a Spadaro (TV Svizzera italiana)
+\end_layout
+
+\begin_layout Itemize
+Domenica In (Pippo Baudo) 
+\end_layout
+
+\begin_layout Itemize
+A bocca aperta (G.Funari TMC)
+\end_layout
+
+\begin_layout Itemize
+L'arcobaleno Va pensiero (A.Barbato)
+\end_layout
+
+\begin_layout Itemize
+Via Teulada 66 (L.Goggi) 
+\end_layout
+
+\begin_layout Itemize
+Piacere Rai 1 Firenze sogna (P.Baudo)
+\end_layout
+
+\begin_layout Itemize
+Colosseum (Giordani-Ravel) 
+\end_layout
+
+\begin_layout Itemize
+Uno mattina 
+\end_layout
+
+\begin_layout Itemize
+Domenica in festa
+\end_layout
+
+\begin_layout Itemize
+Maurizio Costanzo Show 
+\end_layout
+
+\begin_layout Itemize
+Ciao Italia 
+\end_layout
+
+\begin_layout Itemize
+Visage d'Europe (France 2)
+\end_layout
+
+\begin_layout Itemize
+Una caramella al giorno
+\end_layout
+
+\begin_layout Itemize
+Linea verde : speciale per il 30° dell'Alluvione di Firenze 
+\end_layout
+
+\begin_layout Itemize
+Il viaggio (P.Baudo Rai 3) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 La scena fiorentina 1925-1940
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noindent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Odoardo Spadaro (1893-1965) 
+\end_layout
+
+\begin_layout Standard
+Artista poliedrico e di fama internazionale, ha al suo attivo molti brani
+ della tradizione fiorentina.
+ E' da sottolineare che Odoardo e' stato uno dei primi cantautori della
+ canzone itaiana (pur non avendo avuto una formazione musicale scolastica
+ sapeva suonare il pianoforte avendo avuto in famiglia nonna e mamma musiciste).
+ Per la biografia completa si rimanda all'albume 
+\begin_inset Quotes eld
+\end_inset
+
+La mia Toscana
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/Spadaro04.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nel secondo dopoguerra si dedica all'attivita' cinematografica.Ha pubblicato
+ anche un libro autobiografico sulla prima parte della sua carriera in cui
+ viene alla luce lo spirito e la verve di Spadaro
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/richiesta.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nel suo repertorio si possono citare
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Vieni a Dixieland (Spadaro) 1927
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Donne c'e' l'ortolano (Spadaro 1930)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornello hawaiano (Spadaro) orch.
+ Piccinelli - Grammofono R 11097 - 1934
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Se fossi indovino....- Strofe (Ramo - Benatzsky) dalla comm.
+ musicale 'Domani - Disco Grammofono HN-507 - 1934
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La ninna nanna delle dodici mamme (Spadaro) canz.
+ sentimentale - Disco VP Gramm.
+ HN-507 - 1934 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canzone di campagna (Spadaro) Radio Orch.
+ dir.
+ Petralia - Cetra IT-511 - 1937 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Mi ami Mamy a Miami (Spadaro) 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Uh! (Spadaro - Caglieri) 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+I cinque baeki's (Spadaro - De Risi) con Bilancia - Tommei - Fellini e Bianchi
+ - operetta Domani - orch.
+ Petralia - Cetra IT-508 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La cavalcata dei cinque (Spadaro) parodia melodrammatica con Bilancia, Tommei,
+ Fellini, Bianchi - dir.
+ Petralia - Cetra IT 509 - 1938 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Quando d'estate (D'anzi - Bracchi) orch.
+ Petralia - Cetra IT 508 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Qualche filo bianco (Mascheroni - Spadaro) fox - Radio orchestra dir.
+ T.
+ Petralia - Cetra IT-510 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Porta un bacione a Firenze (Spadaro) orch.
+ Petralia - Cetra IT 511 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Avventura esotica (Spadaro - Giuliani) orch.
+ Petralia .
+ Cetra IT 516 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Rumba fiorentina (Spadaro - Cardoni) orch.
+ Petralia - Cetra IT 516 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canzone cinese (Spadaro - Celani) Cetra IT 636 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Fu il telefono (spadaro) orch.
+ G.
+ Filippini - Cetra IT 544 - 1938
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+I cinque cipressi (Spadaro) Radio Orchestra dir.
+ T.
+ Petralia - Cetra IT-510 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Conferenza sulla punteggiatura (Bonella - Spadaro) con Quart.
+ Voc.
+ Cetra - orch.
+ Cetra dir.
+ Barzizza - Cetra IT 527 - 1939 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Firenze (Spadaro) con Trio Lescano - Orch.
+ Petralia - Cetra IT 527 - 1939 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Tra piazza San Firenze e piazza Signoria (Spadaro) Radio Orch.
+ dir.
+ Petralia - Cetra IT 527 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Signorina, piccolina, ricciolina (Spadaro) fox - orch.
+ G.
+ Filippini - Cetra IT 543 - 1939 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il valzer della povera gente (Spadaro) I versione - orch.
+ Petralia - Cetra IT 579 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Sulla carrozzella (Filippini - Morbelli) stornellata fox-trot - orch.
+ Petralia - Cetra IT 579 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+In bicicletta (Natili - Rusconi - Lao Schor) con Maria Pia Arcangeli - orch.
+ Petralia - Cetra IT 637 - 1939 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Vecchio disco (Filippini - Morbelli) con Lina Termini - Cetra IT 638 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Invito alla caccia (Petralia - Spadaro) conTrio Lescano, Fausto Tommei e
+ Michele Montanari - orch.
+ Petralia - Cetra IT 751 - 1939
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Arrivederci...
+ addio (Spadaro - Petralia) orch.
+ da ballo EIAR dir.
+ Angelini - Cetra IT 819 - 1940
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+I tetti (Petralia) orch.
+ da Ballo EIAR, dir.
+ Angelini - Cetra IT 819 - 1940
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Firenze (Spadaro) versione per casa Voce del Padrone - 1940 VP
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Sposi promessi (Spadaro - Petralia) orch.
+ Petralia - 1941
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Parla prima con la mamma (Spadaro) con Marisa Maresca - 1941 ca..
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Fra tanti gusti (Spadaro) Cetra 1941
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Campanili di Firenze (Spadaro) 1944
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Come e' bello guidare i cavalli (Pietri) da Acqua Cheta con Elvio Calderoni
+ - dir.
+ B.
+ Maderna - Rai 1955
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Testina di vitello (Spadaro) 1955 ca..
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Un chapeu (Spadaro) 1956
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Non me lo dica (Spadaro) 1956
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Tout autour de mon cou (Spadaro) 1956 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Vieni mia bebe' (Spadaro) 1956
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Al tuo balcon (Spadaro) 1956
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il valzer della povera gente (Spadaro) 1956 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Firenze (Spadaro) 1956
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il cappello di paglia di Firenze (Kramer Gorni - Giovannini - Garinei) con
+ Quartetto 2+2 e compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La canzone di tutti i giorni (Filippini - Morbelli) compl.
+ Umiliani - RCA 1958 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Micragna Les Bains (Spadaro) compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ninna nanna dell'Arno (Petralia - Caglieri) compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Porta un bacione a Firenze (Spadaro) Quartetto 2 + 2 e compl.
+ Umiliani - II versione - RCA RCP 39 - 1958 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Quattro per quattro, tre per tre (Spadaro) compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canzone di campagna (Spadaro - Forlivesi) compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+I love you (Spadaro) Qaurtetto 2 + 2 e compl.
+ Umiliani - RCA 1958
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Da Fiesole al mattino (Spadaro) 1963
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Tito Petralia (1896-1982) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noindent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Direttore d'orchestra e compositore ha visto la nascita della radio italiana.
+ Ha collaborato con l'amico Odoardo Spadaro che gli dedichera' il libro
+ "A richiesta del pubblico"
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/titopetralia.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/Spadaro_Petralia.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Spadaro e Petralia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Carlo Buti (1902-1963) 
+\end_layout
+
+\begin_layout Standard
+Prolifico tenore fiorentino vanta un repertorio di tipo popolare.Si ricordano
+ in sintesi le canzoni Madonna fiorentina, Serenata fiorentina, stornelli
+ fiorentini
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/buti.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Rino Benini 
+\end_layout
+
+\begin_layout Standard
+Autore comico molto attivo attorno all'anno 1930 come autore di testi con
+ Giulio Ginanni, Checcucci, Cesare Cesarini e Ciaranfi se ne perdono presto
+ le tracce per poi ritrovarlo nel ruolo di Casimiro nel film "L'incompreso"
+ di Comencini.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/benini.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sono state ritrovate le seguenti registrazioni discografiche
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Donnine emancipate : One step.
+ Avventura marinara.
+ Black bottom [per] mandolino.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Fanny : Canzone one-step [per pianoforte].
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Due tifosi in campo / Pietro Fontani 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Fa parte di: Il fico, il melo, la fattoressa : poesia toscana / Luciano
+ Ciaranfi.
+ Due tifosi in camp : scenetta comica 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La canzone dei fiori : slow 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Buon giorno Firenze : canzone foxtrot 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canzone di Roma : canzone beguine 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Serenata a Firenze : tango stornello 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Monologhi e creazioni : La boxe.
+ Canzone fiorentina.
+ Soiree danzante.
+ Stra.
+ .
+ .
+ Firenze 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli a dispetto / S.
+ Bianchi Fa parte di: Aria di casa nostra : la Toscana / esec.
+ S.
+ Bianchi, D.
+ Azzari 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli beceri Fa parte di: L'fiaccheraio : monologo comico / comico fiorentin
+o Rino Benini.
+ Il sindaco ; Stornelli beceri
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Nando (Fernando) Vitali (1898-1977)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/vitali.gif
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Principalmente scrittore, drammaturgo e poeta Nando Vitali e' stato
+\end_layout
+
+\begin_layout Standard
+anche autore di canzoni quali
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Sul filobus di Fiesole 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ne avevo una 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Signora Beatrice 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La Serenataccia
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli di Primavera
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Bimbe d'America 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il secchio e la fontana 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Quel garofano blu 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+L’è un po’ bruttina
+\end_layout
+
+\begin_layout Standard
+Dal punto di vista teatrale si ricorda l'esordio del 1926 con "Lo zio d'America"
+ e "Brigata Firenze"
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Cesare Cesarini (1905-1973)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/cesarini.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Compositore di
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Carrozzelle fiorentine con esecuzione di Carlo Buti
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornellando alla toscana con esecuzione di Carlo Buti
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canta Firenze con esecuzione di Carlo Buti
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Firenze Sogna
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Samba alla fiorentina
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Vieni a Firenze
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Mambo toscano
+\size default
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-La scena folk revival 1960-1970
+La scena folk revival
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Marasco non amava particolarmente la definizione di folk revival
+\end_layout
+
+\end_inset
+
+ 1960-1970
+\end_layout
+
+\begin_layout Standard
+Nella scena fiorentina della fine del anni 1960, non solo Riccardo Marasco
+ ricercava, accompagnato dal registratore, i canti popolari contadini prima
+ che se ne perdesse la memoria.
+ Il fenomeno del folk-revival vedeva protagonisti, oltre a Marasco, Caterina
+ Bueno e Daisy Lumini come cantanti e gli etnomusicologi Alessandro Fornari
+ e Claudio Malcalpi (Malcalpi ha in seguito fondato il Coro della Martinella
+ specializzato in musica tradizionale toscana).
+ Inoltre c'e' da citare il contributo di Dodi Moscati e Leoncarlo Settimelli,
+ due artisti che hanno militato tra le file del Canzoniere Internazionale
+ (gruppo di musicisti a composizione variabile fortemente caratterizzato
+ dal punto visto politico/anarchico)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Caterina Bueno
+\end_layout
+
+\begin_layout Standard
+Caterina Bueno e' stata una etnomusicologa e musicista fiorentina che ha
+ accostato alla ricerca folk l'impegno politico.
+ Tra i suoi album si possono citare come rappresentativi 
+\begin_inset Quotes eld
+\end_inset
+
+La Veglia
+\begin_inset Quotes erd
+\end_inset
+
+ e la collaborazione con il Coro degli Etruschi, formazione maremmana attiva
+ dalla meta' degli anni 70.
+ I rapporti personali tra Marasco e Bueno non erano idilliaci anche in relazione
+ al fatto dei rapporti tra Caterino Bueno ed la sinistra italiana con numerosi
+ inviti alle Feste dell'Unita'.
+ Da segnalare che la canzone 
+\begin_inset Quotes eld
+\end_inset
+
+Caterina
+\begin_inset Quotes erd
+\end_inset
+
+ di Francesco De Gregori e' dedicata a Caterina Bueno in quanto De Gregori
+ nei suoi primi anni di carriera aveva seguito in tour la Bueno come chitarrista
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+E la chitarra la suonavi veramente male, pero' quando cantavi sembrava Carnevale...
+ E cinquecento catenelle che si spezzano in un secondo e non ti bastano
+ per piangere le lacrime di tutto il mondo
+\begin_inset Quotes erd
+\end_inset
+
+ dalla canzone Caterina di Francesco De Gregori
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/veglia.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Dove tu te ne vai 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ballo delle fondaccine 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La Mea 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ninna nanna al mio Cicione 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Lamento del carbonaro 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Dondo dondo 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Mamma mia mi sento un gran male 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+E cinquecento catenelle d'oro
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Cade l'uliva 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Maggio di roselle 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Lamento del contadino 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Battan l'otto
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/coro_etruschi.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il permesso del maggio 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Maggio allegro 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Eran tre falciatori
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+So partito d'Arcidosso
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Mamma vo prende moglie 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Siamo venuti a fa la serenata 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Trescone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Pecoraio in quel poggetto
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli di sesto 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La morte del padrone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+San Piero 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Libera (polka)
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Senti Beppino 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La donnina che semina il grano
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Poveri soldatini
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Maremma amara 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Quando lo pecoraio va in maremma 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Son suonate le nove di Roma 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Lamento del carbonaio 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La leggera-fa'debito-italia bella
+\end_layout
+
+\begin_layout Subsection
+Daisy Lumini
+\end_layout
+
+\begin_layout Standard
+Daisy Lumini e' stata una compositrice e musicista fiorentina che per parte
+ della propria carriera si e' interessata alla musica tradizionale
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/daisyfolklore.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Leati Geppo (Trescone) XVI sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Cade l'uliva XVII sec.
+ canto della Lucchesia Maremma XIX sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La rocca XVII sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli mugellani XVIII sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ninna nanna culla culla XIX sec.
+ con tracce medievali 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La malcontenta XIX sec.
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il lamento della sposa XVIII XIX sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Il marito in galera XIX sec.
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Oh rondinella XIX sec.
+ con tracce XVIII
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Sotto il ponte XV sec.
+ con tracce medievali 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La pappa XIX sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Fate la nanna coscine di pollo XVII sec.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+S'io fossi foco XIV sec.
+ testo di Cecco Angiolieri
+\end_layout
+
+\begin_layout Subsection
+Alfredo Bianchini
+\end_layout
+
+\begin_layout Standard
+Alfredo Bianchini e' stato un attore, cantante e regista nato a Firenze
+ che ha realizzato un unico disco folk 
+\begin_inset Quotes eld
+\end_inset
+
+A veglia in Toscana
+\begin_inset Quotes erd
+\end_inset
+
+datato 1960 ed e' stato il capostipite dei cantanti folk toscani .
+ Di questo disco esistono due edizioni di cui una con un curioso formato
+ intermedio come diametro tra 45 giri ed LP
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="middle" width="50col%">
+<column alignment="center" valignment="middle" width="50col%">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/bianchini.jpg
+	width 5cm
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Copertina
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/bianchini2.png
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Retro
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="middle" width="50col%">
+<column alignment="center" valignment="middle" width="50col%">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/veglia_fronte.jpg
+	width 5cm
+	height 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Copertina
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/veglia_retro.jpeg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Retro
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La biritullera - Canzone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Tutti mi dicon - Rispetto 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La rocca - Canzone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Le donne sono astute - Novella da Cento racconti popolari lucchesi (Nieri)
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Canzonetta a dialogo - Canzone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Sai come fa - Rispetto 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La pappa - Canzone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Eran tre falciatori - Storia 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Beata innocenza - Novella da Cento racconti popolari lucchesi (Nieri) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Ninna nanna - Canzone 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Giovinetti cantate - Rispetto 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Tutti mi dicon - Canzonetta 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+M'e' stato dato un pomo - Rispetto 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+Stornelli mugellani - Stornello 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+L'anima levata dal purgatorio - Novella da Cento racconti popolari lucchesi
+ (Nieri) 
+\end_layout
+
+\begin_layout Itemize
+
+\size footnotesize
+La buona sera ve lo do col canto - Rispetto 
+\end_layout
+
+\begin_layout Standard
+Sulla copertina sono riportate le seguenti note
+\end_layout
+
+\begin_layout Standard
+Nella campagna toscana, la « veglia » era il trattenimento per lo più invernale
+ della sera dopo cena, prima andare a dormire.
+ Tutti i componenti della famiglia colonica, compresi i garzoni a «opra»
+ si riunivano nella gran cuc1na insieme ad amici di case non distanti e
+ spesso vi si trovavano il mae-stro di scuola, il medico, il pievano o qualche
+ personaggio ritenuto autorevole del contorno.
+ Nel camino bruciavano la legna e i sarmenti raccolti durante l'estate,
+ nel paiuolo bollivano le castagne o la polenta dolce, chè durante la veglia
+ si faceva « pusigno » (post-coenam).
+ Si vegliava dalle sette della sera fin verso le undici; alla mezzanotte
+ ognuno era a casa propria, perchè su quell’ora, per le strade c'era il
+ timore di trovarsi fra i piedi, folletti, spiriti ed altre bizzarie di
+ cui fa fede certa novellistica dal Pratesi al Paolieri, al Fucini, al Pitrè.
+ Le spose filavano o tessevano il panno, le ragazze cucivano i loro corredi,
+ gli uomini riposavano dalle fatiche della giornata o vicino al fuoco, intreccia
+vano i giunchi per far ceste e panieri.
+ Chi sapeva, leggeva ad alta voce per l’auditorio attento e silenzioso,
+ certe storie di avventure appassionanti per le quali si stava in attesa
+ fino alla sera dopo.
+ Le storie dei « Reali di Francia », di « Guerin Meschino », i « Cavalieri
+ della Tavola Rotonda», o le storie d’amore di « Pia de’ Tolomei », « Genoveffa
+ di Brabante », di « Tancredi e Clorinda » e di « Orlando », destavano sempre
+ il maggior interesse negli ascoltatori, i quali assai spesso le ascoltavanno
+ addirittura nelle ottave del Tasso e dell’Ariosto, dei quali, anche se
+ non si apprezzava tutto il valore poetico, se ne capiva il racconto e certe
+ sottigliezze letterarie.
+ A veglia, dunque, si faceva senza volere perfino della grande letteratura;
+ ma chi era abile intratteneva raccontando fatti sentiti o avvenuti a lui,
+ magari gonfiandoli con la fantasia, forse sollec1tata dalle « gesta » sentite
+ leggere, ma la sera a veglia si potevano far passare per vere anche certe
+ smarggiassate che in altre ore del giorno non sarebbero state credute da
+ nessuno, difatti è rimasto il modo di dire a chi le spara grosse - "raccontalo
+ a veglia" E' in questo ambiente e in questo clima che maggiormente è nata
+ e si è sviluppata la poesia popolare toscana, ma anche le piazze di paese,
+ per le fiere, o le feste patronali, furono campo di battaglia per i poeti
+ popolari estemporanei.La padronanza quasi perfetta della lingua, anche senza
+ sapere grammatica e sintassi, la conoscenza delle opere poetiche classiche,
+ fece si che i poeti popolari, sia per imitazione che per atavismo componessero
+ in bello stile, in maniera addirittura letteraria e come gli Anonimi che
+ si avvicendarono dallo « Stil Nuovo » al « Neo petrarchismo », dal « Marinismo"
+ a tutto l’ottocento ebbero la pulizia e la finezza dei poeti culti col
+ vantaggio, su certi minori Firmanti, di una schiettezza e una purezza assolutam
+ente cristallina.
+ I poeti estemporanei presentavano i loro componimenti in ottave composte
+ di endecasillabi, cantando su una melodia facile di intervalli, libera
+ di ritmo e lenta, cosicchè cantando un verso avessero tempo di pensare
+ a rimare quello seguente: questo genere di poesia si chiama infatti ottava
+ rima.
+ Anche il rispetto» forma diffusa nella poesia popolare diventava per ragioni
+ musicali di otto versi anzichè di sei, gli ultimi due chiaramente aggiunti
+ in forma di coda con le parole messe simmetricamente ma senza esprimere
+ nuovi concetti.
+ A volte due stemperanei misuravano la loro abilità cantando un’ottava ciascuno
+ in forma di « tenzone (che in questo caso è distumare) fingendosi personaggi
+ di diversa mentalità o posizione sociale onde il attibecco fosse più facile
+ e più evidente.
+ Spesso mettevano in rima episodi storici o fatti di cronaca recente“che
+ il popolo amava sentire in forma poetica.
+ Naturalmente tutti i poeti popolari rimangono per loro sublime modestia
+ e per tradizione anonimi, ma alcuni di questi sono passati col loro nome
+ alla nostra conoscenza: il « Niccheri » del Valdarno che in ottave ha cantato
+ frà l’altro la tragica storia di Pia de’ Tolomei, il Gelli della piana
+ di Lucca, il Somigli conosciuto come "Beco sudicio" fiorentino del settecento
+ ,e cosi gli << Stenterelli » da Luigi del Buono al Cannelli, al Landini;
+ ma soprattutti ,ci interessa la Beatrice del pian degli Ontani.
+ Questa Beatrice era una povera pastura della mon-tagna pistoiese che visse
+ fra la prima e la seconda meta dell ottocento, e certo non lesse una riga
+ di letteratura perchè era assolutamente analfabeta; C’è anche da credere
+ che ben poco avesse sentito dai cantastorie perchè pare fosse di carattere
+ poco socievole e ritrosa; pure, il genio poetico in lei era tale che quando
+ si trovava in comitiva, e ne era pregata, non poteva fare a meno di « cantare
+ di poesia ».
+ Una volta le fu chiesto di raccontare come accadde che perse un suo figlioletto
+ in tenera età, e questa, non sapendo esprimersi in altro modo, dato la
+ particolarità del soggetto, fece tutto il racconto in « ottava rima La
+ poesia popolare toscana si trova a volte anche in forma di spettacolo secondo
+ i canoni del mistero medievale; valga per tutti il famoso « Bruscello »
+ di Montepulciano vivo tutt’ora, il cui nome deriva dall’arboscello che
+ si mette in mezzo alla scena e che serve a determinare i luoghi deputati
+ dove si svolge l’azione.
+ Spettacolo rudimentale come tutte le rappresentazioni di piazza, a cui
+ certe volte partecipa una massa di comparsa come ad una 'processione, conseguen
+za delle Laudi dei disciplinari umbri che col tempo divennero "Mistero"
+ Per quello che riguarda la musica popolare toscana la storia non è gran
+ che di diversa da quella.
+ della poesia.
+ Le melodie hanno origini per lo piu' rinascimentali e spesso si può riconoscere
+ la chiara la provenienza di certi canti carnascialeschi, o altrimenti dalle
+ forme di danza come il « passamezzo », il « saltarello », la «pavana»,
+ la «gagliarda » la «Contraddanza » ecc.; quasi tutti tempi « ternar1 »,
+ o una parte in tempo « binario » con soltanto la coda in tre.
+ Ma il ritmo viene spesso alterato a favore della parola e l’argomento della
+ composizione poetica preche' a differenza delle musiche popolari settentrionali
+ , nelle quali il ritmo e' chiaramente rispettato, in Toscana si da' maggiore
+ importanza alla melodia subrodinata alla parola.
+ Anche la polifonia non e' molto usata per quello che riguarda il cantare
+ in coro infatti molto spesso se le canzoni popolari sono eseguite in coro
+ lo si fa magari a "botta e risposta" ma generalmente all'unisono.
+ Questo può suonare strano dato che l’« Ars-Nova Fiorentina » e' nata in
+ Toscana e i canti carnascialeschi sono composizioni polifoniche e il fiamminghi
+smo che ebbe tanta parte nella musica italiana si sviluppò a Firenze e fu
+ il trionfo della polifonia più virtuosistica.
+ Forse la ragione si può ritenere questa: tutto quello che fu lo sviluppo
+ della polifonia interessò la categoria dotta o ricca delle Accademie delle
+ Camerate e delle Corti, ma il popolo continuò a cantare come anticamente
+ sulla monodia orecchiando dalle musiche « culte » soltanto la linea melodica
+ eseguita dal «Cantus» o dall'« Altus ».
+ L’ispirazione della musica popolare {è data dalle metrica del componimento
+ poetico per cui sulla stessa musica si possono cantare parole diverse e
+ diverse situazioni ac-celerando o rallentando il ritmo.
+ Non si stupisca se tra i capolavori della poesia toscana si trovano anche
+ tre novellette firmate daIdelfonso Nieri.
+ Questo illustre letterato, nato nella provincia di Lucca (1853-1920) dedicò
+ la vita intera allo studio della lingua italiana ed in particolare al toscanism
+o che allora era in gran voga; altri suoi colleghi cercarono nei racconti
+ dei popolani toscani le fonti di una filologia a cui appoggiare una lin
+ guistica nazionale ora che l’Italia era unita sotto una sola bandiera,
+ ma molti non fecero altro che impreziosire l’idioma esagerando in « cruschismo
+ ».
+ per coniare una lingua impossibile a parlare: era infatti il periodo del
+ " manzonismo degli stenterelli" Il Nieri si contenta di riraccontare in
+ forma popolare quello che sentì dalla gente delle sue campagne facendosi
+ egli stesso uno di loro senza scimiottare il loro modo di parlare, ma mantenend
+o 'la stessa autentica schiettezza e rimanendo unitario dello stile.
+ Pubblico' queste sue esperienze nel "Cento racconti popolari lucchesi"
+ (1906)
+\end_layout
+
+\begin_layout Subsection
+Dodi Moscati
+\end_layout
+
+\begin_layout Standard
+Dodi Moscati e' stata una ricercatrice e cantante di Pontassieve che anche
+ svolta l'attivita' di critico musicali per alcune testate.Ha collaborato
+ anche con il Canzoniere internazionale.Nella sua discografia di canti tradiziona
+li toscani si citano gli LP Cronache Fatti E Burle...In Toscana!,La Miseria
+ L'e' Un Gran Malanno,Ti Converrà Mangiare I' Pan' Pentito, E Rigiramelo
+ I' Pensiero Vol.
+ 1 e 2(La Toscana Dalla Viva Voce Dei Contadini Alla Riproposta Di Dodi
+ Moscati) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/dodi.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Canzoniere internazionale
+\end_layout
+
+\begin_layout Standard
+Canzoniere internazionale - Cittadini E Contadini - Canzoni Del Folklore
+ Toscano 1972 Adria Mortari, Dodi Moscati, Leoncarlo Settimelli, Luca Balbo,
+ Luciano Francisci, Roberto Ivan Orano
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/cittadini.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+E la si liscia la si fa bella 
+\end_layout
+
+\begin_layout Itemize
+Vanne vanne Cecilia 
+\end_layout
+
+\begin_layout Itemize
+La mosca dal moscaio 
+\end_layout
+
+\begin_layout Itemize
+Tu Gorizia addolorata
+\end_layout
+
+\begin_layout Itemize
+Prima San Frediano gli era un fiore
+\end_layout
+
+\begin_layout Itemize
+I' bambino e' della mamma 
+\end_layout
+
+\begin_layout Itemize
+Trescone 
+\end_layout
+
+\begin_layout Itemize
+Quando moio io 
+\end_layout
+
+\begin_layout Itemize
+E me ne stavo mesto a lavorare
+\end_layout
+
+\begin_layout Itemize
+Le ragazze della Posta 
+\end_layout
+
+\begin_layout Itemize
+Occhi miei piangete forte 
+\end_layout
+
+\begin_layout Itemize
+Hai ben ragion se piangi
+\end_layout
+
+\begin_layout Itemize
+Contrasto tra cittadino e contadino
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Fotografie
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/rm1.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/rm2.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/lucainnocenti/Documents/marasco/img/rm3.jpg
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
 Fonti bibliografiche
+\end_layout
+
+\begin_layout Standard
+In questa sezione sono riportati i testi storici a cui Marasco ha attinto
+ per il suo repertorio.
+ Grazie a servizi quali Google Books molti di questi testi sono consultabili
+ direttamente a schermo invece di recarsi in biblioteca per leggere i testi
+ come in originale come faceva Marasco
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Nelle schede dei libri della Biblioteca Nazionale di Firenze e' ancora possibile
+ ritrovare la firma di Marasco per la consultazione
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Canti popolari toscani Raccolti ed annotati da Giuseppe Tigri (Firenze 1860)
+\end_layout
+
+\begin_layout Enumerate
+Canti popolari toscani Scelti ed annotati da Raff Andreoli (Napoli 1857)
+\end_layout
+
+\begin_layout Enumerate
+I veri canti popolari di Firenze Trascritti da A.Giamboni (Milano)
+\end_layout
+
+\begin_layout Enumerate
+Canti popolari toscani, corsi, illici, greci Niccolo' Tommaseo (Venezia
+ 1841)
+\end_layout
+
+\begin_layout Enumerate
+Canti popolari toscani Luigi Gordigiani
+\end_layout
+
+\begin_layout Enumerate
+La poesia popolare italiana Alessandro D'Ancona (Livorno 1878)
+\end_layout
+
+\begin_layout Enumerate
+Laudario di Cortona seconda meta' del XIII sec.
+\end_layout
+
+\begin_layout Enumerate
+Laudario di Firenze Magliabechiano 18 XIV sec.
+\end_layout
+
+\begin_layout Enumerate
+Corona di sacre canzoni o laude spirituali (1710)
+\end_layout
+
+\begin_layout Enumerate
+Inni di guerra Canti patriottici del Popolo Italiano
+\end_layout
+
+\begin_layout Enumerate
+Primo libro delle Laudi spirituali Fra' Serafino Razzi (1563)
+\end_layout
+
+\begin_layout Enumerate
+Cento racconti popolari lucchesi Idelfondo Nieri Livorno 1908
+\end_layout
+
+\begin_layout Enumerate
+1500 Stornelli e Rispetti amorosi Salani Ed.
+ Firenze (1881)
+\end_layout
+
+\begin_layout Enumerate
+Lirica italiana nel cinquecento e seicento Eugenia Levi Olschki 1909
 \end_layout
 
 \end_body
